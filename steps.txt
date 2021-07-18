@@ -1,0 +1,6 @@
+Gathering the data and making a dataset
+Data preprocessing 
+We have 2 kind of data with and without mask.
+
+
+MobileNet(CNN) -- These are used to build lightweight convolutional eural nets.This are mainly used in small scale because it provides an efficient model for mobile and embedded vision applications.
